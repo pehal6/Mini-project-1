@@ -1,5 +1,7 @@
 # Mini-project-1
 Python notebook – Sorting & Logic Problems
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pehal6/Mini-project-1/blob/main/python_assignment.ipynb)
+
 
 This notebook contains solutions to key Python programming tasks using logic, performance testing, and data visualization.
 
